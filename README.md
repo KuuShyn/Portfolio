@@ -1,5 +1,5 @@
 # Portfolio
-[`Portfolio Website Link`](https://portfolio-kuushyns-projects.vercel.app/)
+https://portfolio-kuushyns-projects.vercel.app/
 
 
 # create-svelte

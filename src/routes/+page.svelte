@@ -82,7 +82,11 @@
 						/></svg
 					>
 				</a>
+				
 			</footer>
+			<h4>
+				<span style="color: gray">Made with SvelteKit and Threlte.</span>
+			</h4>
 		</section>
 	</div>
 	<Canvas>
