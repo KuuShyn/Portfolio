@@ -24,6 +24,7 @@
 		<header>
 			<h1>Hello, I'm King Aj Magalona</h1>
 			<p class="subtitle">I Write code and make game assets<br />Scroll to see what 👀</p>
+			<a role="button" href="https://kuushyn.my.canva.site/">New Portfolio Page</a>
 		</header>
 		<section id="sentinel">
 			<h2>Sentinel</h2>
@@ -82,7 +83,6 @@
 						/></svg
 					>
 				</a>
-				
 			</footer>
 			<h4>
 				<span style="color: gray">Made with SvelteKit and Threlte.</span>
