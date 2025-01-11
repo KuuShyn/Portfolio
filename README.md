@@ -1,5 +1,5 @@
 # Portfolio
-https://portfolio-kuushyn.vercel.app/
+https://kuushyn.vercel.app/
 
 
 # create-svelte
